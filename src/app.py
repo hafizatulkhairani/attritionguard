@@ -1,13 +1,3 @@
-"""
-AttritionGuard - Employee Attrition Risk Prediction
-Deployment app (Streamlit)
-Dibuat berdasarkan pipeline preprocessing & feature engineering
-di notebooks/analysis.ipynb (Data Prep: Zahra, ML: Hafizatul)
-
-Cara jalanin lokal:
-    streamlit run src/app.py
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
